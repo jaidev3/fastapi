@@ -5,7 +5,7 @@ import random
 from datetime import datetime
 
 # Configuration
-API_URL = "http://localhost:8000/v1/audit"  # Change to your Droplet IP when deployed e.g., http://<droplet_ip>/v1/audit
+API_URL = "http://68.183.88.205/v1/audit"  # Change to your Droplet IP when deployed e.g., http://<droplet_ip>/v1/audit
 
 async def demo_audit_flow():
     print(f"🚀 Starting Audit Service Demo against {API_URL}")

@@ -56,6 +56,6 @@ Simple, reliable audit trail microservice built with FastAPI.
    ```
 
 4. Deployed Api
-   Open your browser and navigate to: `http://<YOUR_DROPLET_IP>/docs`
+   Open your browser and navigate to: `http://68.183.88.205/docs`
 
    
